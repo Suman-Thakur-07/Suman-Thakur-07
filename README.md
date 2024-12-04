@@ -1,14 +1,10 @@
 Hey, This is Suman Kumar here! 👋
 
-
-
-
-
-- 🔭 I’m currently working on Flutter Projects / Freelancing
-- 🌱 I’m currently Exploring more on Flutter(Dart),Firebase.
-- 👯 I’m looking to collaborate on Open Source / YouTube.
-- 🤔 I’m looking for help with API 
-- 💬 Ask me about growing your Busineses,Flutter,Editing or Any tech related stuff.
+🔭 I’m currently working on Java (Spring Boot, Microservices) and Flutter projects.
+🌱 Exploring more on Java (Spring Boot), Microservices, and Flutter (Dart) with a focus on scalable enterprise applications.
+👯 I’m looking to collaborate on different startup ideas, investors, complex Projects.
+🤔 I’m looking for help with API design, cloud services (AWS), and performance optimization.
+💬 Ask me about Java development, Spring Boot, Microservices, Flutter, or any tech-related topics.
 - 📫 How to reach me: [linkedIn](http://linkedin.com/in/suman-kumar-4851121ba), [instagram](@tthakur_jii)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Exploring Dishes and love for songs...
